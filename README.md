@@ -1,2 +1,3 @@
 # projects
 PROJECTS
+AUTHOR=ME
